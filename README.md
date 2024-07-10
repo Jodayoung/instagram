@@ -1,5 +1,5 @@
 # instagram
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Nasangmin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dayoung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
 #  Team_project : Instagram
@@ -11,7 +11,7 @@ instagram 리모델링
 + 2024.06.28 ~ 07.04(7일) 
 
 ## 👫 맡은 역활
-+ 나상민(프론트엔드 및 백엔드 총괄) : 모든페이지 구현, 백엔드 검토 및 오류 수정
++ 조다영(백엔) : 로그인 / 회원가입 페이지 기능 구현 , 메인 페이지 기능 구현
 
 
 ## 📝 개발언어
